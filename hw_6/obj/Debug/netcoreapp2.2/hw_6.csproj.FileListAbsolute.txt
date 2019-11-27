@@ -1,0 +1,11 @@
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\bin\Debug\netcoreapp2.2\hw_6.deps.json
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\bin\Debug\netcoreapp2.2\hw_6.runtimeconfig.json
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\bin\Debug\netcoreapp2.2\hw_6.runtimeconfig.dev.json
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\bin\Debug\netcoreapp2.2\hw_6.dll
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\bin\Debug\netcoreapp2.2\hw_6.pdb
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\obj\Debug\netcoreapp2.2\hw_6.csprojAssemblyReference.cache
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\obj\Debug\netcoreapp2.2\hw_6.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\obj\Debug\netcoreapp2.2\hw_6.AssemblyInfoInputs.cache
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\obj\Debug\netcoreapp2.2\hw_6.AssemblyInfo.cs
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\obj\Debug\netcoreapp2.2\hw_6.dll
+C:\Users\Анастасия\RiderProjects\hw_6\hw_6\obj\Debug\netcoreapp2.2\hw_6.pdb
